@@ -1,0 +1,33 @@
+form.wpcf7-form {
+    margin-top: 3rem;
+    
+    p {
+        label {
+            width: 100%;
+            font-size: 14px;
+
+            span {
+
+                input, textarea {
+                   border: $grey solid 1px;
+                   padding: .5rem;
+                   width: 50%;
+               }
+
+               textarea {
+                   resize: none;
+               }
+            }
+        }
+
+        input[type=submit] {
+            background: $accent;
+            border: none;
+            font-size: 14px;
+            padding: .2rem .5rem ;
+            width: 100px;
+            color: $light;
+            border-radius: 2px;
+        }
+    }
+}

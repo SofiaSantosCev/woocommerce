@@ -1,0 +1,28 @@
+2019-11-13T11:16:24+00:00 CRITICAL Uncaught Error: Call to undefined function register_newsletterform() in C:\xampp\htdocs\woocommerce\wp-content\themes\custom-theme\functions.php:46
+Stack trace:
+#0 C:\xampp\htdocs\woocommerce\wp-settings.php(499): include()
+#1 C:\xampp\htdocs\woocommerce\wp-config.php(90): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\woocommerce\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\woocommerce\wp-admin\admin-ajax.php(22): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\woocommerce\wp-content\themes\custom-theme\functions.php on line 46
+
+2019-11-13T11:17:24+00:00 CRITICAL Uncaught Error: Call to undefined function register_newsletterform() in C:\xampp\htdocs\woocommerce\wp-content\themes\custom-theme\functions.php:46
+Stack trace:
+#0 C:\xampp\htdocs\woocommerce\wp-settings.php(499): include()
+#1 C:\xampp\htdocs\woocommerce\wp-config.php(90): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\woocommerce\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\woocommerce\wp-admin\admin-ajax.php(22): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\woocommerce\wp-content\themes\custom-theme\functions.php on line 46
+
+2019-11-13T11:17:49+00:00 CRITICAL Uncaught Error: Call to undefined function register_newsletterform() in C:\xampp\htdocs\woocommerce\wp-content\themes\custom-theme\functions.php:46
+Stack trace:
+#0 C:\xampp\htdocs\woocommerce\wp-settings.php(499): include()
+#1 C:\xampp\htdocs\woocommerce\wp-config.php(90): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\woocommerce\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\woocommerce\wp-blog-header.php(13): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\woocommerce\index.php(17): require('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\woocommerce\wp-content\themes\custom-theme\functions.php on line 46
+

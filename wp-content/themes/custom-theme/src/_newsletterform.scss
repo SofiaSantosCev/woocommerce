@@ -1,0 +1,38 @@
+.widget.widget_email-subscribers-form {
+    box-shadow: none;
+    height: auto;
+
+    h4 {
+        color: $light;
+        font-size: 1rem;
+        font-weight: 300;
+    }
+
+    .es-field-wrap {
+        label {
+            font-size: 1rem;
+            color: $dark;
+        }
+
+        input {
+            border: solid 1px $grey;
+            background: $light;
+            border-radius: 2px;
+            padding: .6vh;
+            width: 30vh;
+        }    
+    }
+    
+    input[type=submit] {
+        padding: .4rem .7rem;
+        background: $accent;
+        border: none;
+        font-size: .8rem;
+        color: $light;
+        border-radius: 2px;
+    }
+}
+
+.es_subscription_message.success {
+    color: $light !important;
+}

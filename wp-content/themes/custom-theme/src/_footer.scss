@@ -1,0 +1,26 @@
+footer {
+    height: auto;
+    background: $dark;
+    width: 100%;
+    padding: 30px;
+    position: relative;
+    bottom: 0;
+    left: 0;
+    
+    .row .col {
+        text-align: center;
+        p {
+            color: $light;
+            font-size: .7rem;
+        }
+    }
+}
+
+.widget.widget_email-subscribers-form {
+    background: $dark;
+}
+
+.footer_logo {
+    width: 3.5rem;
+}
+

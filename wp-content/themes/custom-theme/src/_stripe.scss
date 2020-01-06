@@ -1,0 +1,15 @@
+div.stripe-card-group {
+    min-width: 220px;
+}
+#stripe-exp-element.wc-stripe-elements-field.StripeElement.empty {
+    width: 70px;
+}
+
+#stripe-cvc-element {
+    width: 50px;
+}
+
+.wc-stripe-elements-field.StripeElement.empty {
+    margin-left: .5rem;
+    border-radius: 3px;
+}

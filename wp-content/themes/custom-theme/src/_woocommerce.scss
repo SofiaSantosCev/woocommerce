@@ -1,0 +1,58 @@
+.woocommerce .woocommerce-input-wrapper {
+    width: 100%;
+    display: block;
+}
+
+.woocommerce form.form-row input.input-text, .woocommerce form.form-row textarea {
+    padding: 0.7rem;
+    border-radius: 4px;
+    border: solid 1px #ccc ;
+    height: 30px;
+}
+
+.orderby {
+    padding: .5rem;
+    background: $light;
+    border: $grey 1px solid;
+}
+
+h2.woocommerce-loop-product__title {
+    color: $dark;
+    font-size: 3rem;
+}
+
+.price span {
+    color: #111;
+}
+
+.woocommerce-result-count {
+    color: $dark;
+}
+
+.size-woocommerce_thumbnail {
+    width: 8rem;
+}
+
+.add_to_cart_button:hover {
+    background: $dark;
+}
+
+a.checkout-button.button.alt.wc-forward {
+    background: $accent;
+}
+
+div.cart_totals h2 {
+    font-weight: 400;
+}
+
+.button.product_type_simple.add_to_cart_button.ajax_add_to_cart:hover {
+    background: $accent;
+    color: $light;
+}
+
+h1.page-title {
+    font-weight: 400;
+}
+.button.alt {
+    background: $accent;
+}
